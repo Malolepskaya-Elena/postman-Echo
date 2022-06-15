@@ -1,1 +1,2 @@
-Project Sample[![Build status](https://ci.appveyor.com/api/projects/status/3h3xx4a0spjbjj51?svg=true)](https://ci.appveyor.com/project/Malolepskaya-Elena/project-sample)
+[![Build status](https://ci.appveyor.com/api/projects/status/l8lu8qlv29yt0d33?svg=true)](https://ci.appveyor.com/project/Malolepskaya-Elena/postman-echo)
+
