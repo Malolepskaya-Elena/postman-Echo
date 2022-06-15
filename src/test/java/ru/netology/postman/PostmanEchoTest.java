@@ -16,6 +16,6 @@ public class PostmanEchoTest {
                 .post("/post")
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("Домашка по математике."));
+                .body("data", equalTo("Домашка по Постману."));
     }
 }
